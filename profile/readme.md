@@ -1,4 +1,4 @@
 <h1>
-    <source media="(prefers-color-scheme: dark)" height="50" srcset="https://github.com/Druifstad/.github/logo/bannerwhite.png">
-    <source media="(prefers-color-scheme: light)" height="50" srcset="https://github.com/Druifstad/.github/logo/bannerblack.svg">
+    <img height="50" src="https://raw.githubusercontent.com/Druifstad/.github/main/logo/bannerwhite.png#gh-dark-mode-only">
+    <img height="50" src="https://raw.githubusercontent.com/Druifstad/.github/main/logo/bannerblack.svg#gh-light-mode-only">
 </h1>
